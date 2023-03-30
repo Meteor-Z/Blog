@@ -50,11 +50,11 @@ void solve()
 }
 int main()
 {
-	IOS;
-	int T=1;
-	cin>>T;
-	while(T--) solve();
-	return (0^0);
+    IOS;
+    int T=1;
+    cin>>T;
+    while(T--) solve();
+    return (0^0);
 }
 ```
 
