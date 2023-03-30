@@ -1,5 +1,9 @@
-# 今天我要ak!!
+# acm可好玩了(6)
+
+## 今天我要ak!!
+
 按照题意直接输出就好了
+
 ```c
 #include <stdio.h>
 int main()
